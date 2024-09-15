@@ -1,7 +1,7 @@
-import SlotManagerComponent from "@/components/component/SlotManagerComponent";
+import CryptarithmsSolver from "@/pages/Cryptarithms-solver";
 
 export default function Home() {
   return (
-    <SlotManagerComponent />
+    <CryptarithmsSolver />
   );
 }
